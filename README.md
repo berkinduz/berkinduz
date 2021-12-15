@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @berkinduz
-- 👀  I’m interested in Web Development and RPA
+- 👀  I’m interested in Web Development
 - 🌱  I’m currently learning React JS
 - 💞️  I just graduated from Computer Engineering.
 - 📫  How to reach me berkin@tuta.io
