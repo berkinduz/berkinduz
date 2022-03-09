@@ -1,3 +1,5 @@
+![header](https://github.com/berkinduz/berkinduz/blob/main/github-header-image.png)
+
 - 👋  Hi, I’m @berkinduz
 - 👀  I’m interested in Web Development
 - 🌱  I’m currently learning React JS
