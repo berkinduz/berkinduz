@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔗 Links
 
 - 🔗 [Website](https://berkin.tech/en/about)
-- 📄 [CV (PDF)](https://berkin.tech/Berkin_Duz_Resume.pdf)
+- 📄 [CV (PDF)](https://berkin.tech/content/cv/Berkin_Duz_Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/berkinduz)
 - 🐙 [GitHub](https://github.com/berkinduz)
 - ✉️ mberkinduz@gmail.com
