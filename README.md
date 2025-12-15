@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+- 🔗 [Website](https://berkin.tech/en/about)
+
+---
+
 ### 🧠 About Me
 
 - ⚒️ Frontend Developer with 4+ years of experience
@@ -20,6 +24,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### 👷 Projects
+
+- [Mockator](https://github.com/berkinduz/mockator)
+- [AccessJet](https://github.com/berkinduz/access-jet)
+- [i18n-radar](https://github.com/berkinduz/i18n-radar)
+- [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
+- [Pixelixa](https://github.com/berkinduz/pixelixa)
+- [Eksi'de Ara Chrome Extension](https://github.com/berkinduz/ekside-ara-extension)
+
+---
 
 ### 🔗 Links
 
