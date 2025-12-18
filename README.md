@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - [i18n-radar](https://github.com/berkinduz/i18n-radar)
 - [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
 - [Pixelixa](https://github.com/berkinduz/pixelixa)
-- [Eksi'de Ara Chrome Extension](https://github.com/berkinduz/ekside-ara-extension)
+- [House Keeping Chrome Extension](https://github.com/berkinduz/house-keeping)
 
 ---
 
