@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 - [AccessJet](https://github.com/berkinduz/access-jet)
 - [i18n-radar](https://github.com/berkinduz/i18n-radar)
 - [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
+- [RTL-Shield](https://github.com/berkinduz/rtl-shield)
 - [Pixelixa](https://github.com/berkinduz/pixelixa)
 - [House Keeping Chrome Extension](https://github.com/berkinduz/house-keeping)
 
