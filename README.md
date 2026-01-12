@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
 - [RTL-Shield](https://github.com/berkinduz/rtl-shield)
 - [Pixelixa](https://github.com/berkinduz/pixelixa)
-- [House Keeping Chrome Extension](https://github.com/berkinduz/house-keeping)
+- [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker)
 
 ---
 
