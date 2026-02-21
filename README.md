@@ -26,14 +26,14 @@ You can click the Preview link to take a look at your changes.
 
 ### 👷 Projects
 
+- [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker)
+- [TryJS](https://github.com/berkinduz/js-park)
 - [Mockator](https://github.com/berkinduz/mockator)
 - [AccessJet](https://github.com/berkinduz/access-jet)
 - [i18n-radar](https://github.com/berkinduz/i18n-radar)
 - [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
 - [RTL-Shield](https://github.com/berkinduz/rtl-shield)
 - [Pixelixa](https://github.com/berkinduz/pixelixa)
-- [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker)
-- [JS Park](https://github.com/berkinduz/js-park)
 
 ---
 
