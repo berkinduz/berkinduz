@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔗 Links
 
 - 🔗 [Website](https://berkinduz.com)
-- 📄 [CV (PDF)](https://berkinduz.cpm/content/cv/Berkin_Duz_Resume.pdf)
+- 📄 [CV (PDF)](https://berkinduz.com/content/cv/Berkin_Duz_Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/berkinduz)
 - 🐙 [GitHub](https://github.com/berkinduz)
 - ✉️ mberkinduz@gmail.com
