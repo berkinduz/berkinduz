@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ### 👷 Projects
 
 - [TryJS](https://github.com/berkinduz/js-park) - [Live](https://tryjs.app)
-- [Differio - Diff Checker](https://github.com/berkinduz/differio) - [Live](https://vectorio.vercel.app)
+- [Differio - Diff Checker](https://github.com/berkinduz/differio) - [Live](https://differio.vercel.app)
 - [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker) - [Live](https://jobapplytracker.com)
 - [Mockator](https://github.com/berkinduz/mockator)
 - [AccessJet](https://github.com/berkinduz/access-jet)
