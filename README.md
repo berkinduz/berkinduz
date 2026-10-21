@@ -1,6 +1,6 @@
 # Hi, I'm Berkin Düz
 
-Frontend Engineer building software products and tools across web, iOS, and macOS.
+Software Engineer building software products and tools across web, iOS, and macOS.
 
 ### 🧠 About Me
 
