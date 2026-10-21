@@ -26,16 +26,14 @@ You can click the Preview link to take a look at your changes.
 
 ### 👷 Projects
 
+- [Term Cut](https://github.com/berkinduz/term-cut-menubar-terminal) - macOS menu bar terminal with global hotkeys, tabs, and split panes
+- [MenuMail](https://github.com/berkinduz/menu-mail) - macOS menu bar email reader for your existing Apple Mail mailbox
 - [TryJS](https://github.com/berkinduz/try-js) - [Live](https://tryjs.app)
 - [Vectorio](https://github.com/berkinduz/vectorio) - [Live](https://vectorio.app)
 - [Differio - Diff Checker](https://github.com/berkinduz/differio) - [Live](https://differio.vercel.app)
 - [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker) - [Live](https://jobapplytracker.com)
 - [Mockator](https://github.com/berkinduz/mockator)
-- [AccessJet](https://github.com/berkinduz/access-jet)
-- [i18n-radar](https://github.com/berkinduz/i18n-radar)
-- [Gamma Test Runner](https://github.com/berkinduz/gamma-test-runner)
 - [RTL-Shield](https://github.com/berkinduz/rtl-shield)
-- [Pixelixa](https://github.com/berkinduz/pixelixa)
 
 ---
 
