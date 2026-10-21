@@ -1,26 +1,17 @@
-<div align="center"><img src="https://github.com/berkinduz/berkinduz/blob/main/berkin.png" alt="header"/></div>
-<br>
+# Hi, I'm Berkin Düz
 
-
-<!---
-berkinduz/berkinduz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
-
-- 🔗 [Website](https://berkinduz.com)
-
----
+Frontend Engineer at EPAM. I build web products, developer tools, and native macOS apps.
 
 ### 🧠 About Me
 
-- ⚒️ Frontend Developer with 4+ years of experience
-- 🌍 Specialized in **Angular (Spartacus)**, **Vue.js**, and **Next.js**
-- 🧩 Experienced with **MACH architecture**, **headless CMS**, and **CommerceTools**
-- 🚀 Migrated Angular apps to Next.js from scratch
-- 🧪 Wrote automated tests with **Selenium** and **Puppeteer**
-- 👨‍🏫 Love mentoring and working in multicultural teams
+- I work on multi-brand, multilingual commerce experiences with Angular, React, and Next.js, including RTL interfaces.
+- My work spans headless commerce and CMS integrations, frontend migrations, production troubleshooting, and deployment ownership.
+- I enjoy mentoring developers and collaborating with multicultural teams.
+- Outside work, I independently build focused developer tools and macOS utilities, from browser playgrounds to menu bar apps.
+
+### 🤖 AI in Practice
+
+I use AI daily for development, problem-solving, and technical communication. I also speak at community events about AI and share what I learn from using it in practice.
 
 ---
 
@@ -42,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 - 🔗 [Website](https://berkinduz.com)
 - 📄 [CV (PDF)](https://berkinduz.com/content/cv/Berkin_Duz_Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/berkinduz)
-- 🐙 [GitHub](https://github.com/berkinduz)
 - ✉️ mberkinduz@gmail.com
 
 ---
