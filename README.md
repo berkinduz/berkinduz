@@ -1,6 +1,8 @@
 # Hi, I'm Berkin Düz
 
-Frontend Engineer at EPAM. I build web products, developer tools, and native macOS apps.
+Frontend Engineer building web products, developer tools, and native macOS apps.
+
+The projects and views shared here are my own and do not represent my employer.
 
 ### 🧠 About Me
 
