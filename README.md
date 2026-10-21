@@ -28,12 +28,12 @@ You can click the Preview link to take a look at your changes.
 
 - [Term Cut](https://github.com/berkinduz/term-cut-menubar-terminal) - macOS menu bar terminal with global hotkeys, tabs, and split panes
 - [MenuMail](https://github.com/berkinduz/menu-mail) - macOS menu bar email reader for your existing Apple Mail mailbox
-- [TryJS](https://github.com/berkinduz/try-js) - [Live](https://tryjs.app)
-- [Vectorio](https://github.com/berkinduz/vectorio) - [Live](https://vectorio.app)
-- [Differio - Diff Checker](https://github.com/berkinduz/differio) - [Live](https://differio.vercel.app)
-- [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker) - [Live](https://jobapplytracker.com)
-- [Mockator](https://github.com/berkinduz/mockator)
-- [RTL-Shield](https://github.com/berkinduz/rtl-shield)
+- [TryJS](https://github.com/berkinduz/try-js) - Browser playground for JavaScript, TypeScript, HTML/CSS, and React - [Live](https://tryjs.app)
+- [Vectorio](https://github.com/berkinduz/vectorio) - Browser-based SVG converter for React, Vue, Svelte, and Solid components and icon libraries - [Live](https://vectorio.app)
+- [Differio - Diff Checker](https://github.com/berkinduz/differio) - Text and code comparison tool with side-by-side and unified diffs - [Live](https://differio.vercel.app)
+- [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker) - Job application tracker with a kanban board, follow-up reminders, and analytics - [Live](https://jobapplytracker.com)
+- [Mockator](https://github.com/berkinduz/mockator) - Browser-based generator of deterministic relational test data from supported PostgreSQL Prisma schemas
+- [RTL-Shield](https://github.com/berkinduz/rtl-shield) - ESLint plugin that enforces logical CSS properties and Tailwind classes for RTL layouts
 
 ---
 
