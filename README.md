@@ -9,9 +9,9 @@ Frontend Engineer at EPAM. I build web products, developer tools, and native mac
 - I enjoy mentoring developers and collaborating with multicultural teams.
 - Outside work, I independently build focused developer tools and macOS utilities, from browser playgrounds to menu bar apps.
 
-### 🤖 AI in Practice
+### 🤖 Applied AI & Community
 
-I use AI daily for development, problem-solving, and technical communication. I also speak at community events about AI and share what I learn from using it in practice.
+I work extensively with AI tools and agent-based workflows across software development and personal projects. My hands-on experience is backed by coursework in machine learning and a grounding in AI principles. I explore how to apply these tools effectively, evaluate their outputs, and improve the workflows around them. I also speak at community events about AI and share lessons from practice.
 
 ---
 
