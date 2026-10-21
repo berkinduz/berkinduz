@@ -11,7 +11,7 @@ Frontend Engineer building software products and tools across web, iOS, and macO
 
 ### 🤖 Applied AI & Community
 
-I work extensively with AI tools and agent-based workflows across software development and personal projects. My hands-on experience is backed by coursework in machine learning and a grounding in AI principles. I explore how to apply these tools effectively, evaluate their outputs, and improve the workflows around them. I also speak at community events about AI and share lessons from practice.
+I build agentic workflows for companies and projects. I work extensively with AI tools and agent-based workflows across software development and personal projects. My hands-on experience is backed by coursework in machine learning and a grounding in AI principles. I explore how to apply these tools effectively, evaluate their outputs, and improve the workflows around them. I also speak at community events about AI and share lessons from practice.
 
 ---
 
