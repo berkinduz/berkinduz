@@ -1,13 +1,13 @@
 # Hi, I'm Berkin Düz
 
-Frontend Engineer building web products, developer tools, and native macOS apps.
+Frontend Engineer building software products and tools across web, iOS, and macOS.
 
 ### 🧠 About Me
 
 - I work on multi-brand, multilingual commerce experiences with Angular, React, and Next.js, including RTL interfaces.
 - My work spans headless commerce and CMS integrations, frontend migrations, production troubleshooting, and deployment ownership.
 - I enjoy mentoring developers and collaborating with multicultural teams.
-- Outside work, I independently build focused developer tools and macOS utilities, from browser playgrounds to menu bar apps.
+- Outside work, I build independent software products and developer tools across web, iOS, and macOS.
 
 ### 🤖 Applied AI & Community
 
