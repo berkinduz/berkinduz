@@ -2,8 +2,6 @@
 
 Frontend Engineer building web products, developer tools, and native macOS apps.
 
-The projects and views shared here are my own and do not represent my employer.
-
 ### 🧠 About Me
 
 - I work on multi-brand, multilingual commerce experiences with Angular, React, and Next.js, including RTL interfaces.
