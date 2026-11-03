@@ -17,9 +17,10 @@ I build agentic workflows for companies and projects. I work extensively with AI
 
 ### 👷 Projects
 
-- [Term Cut](https://github.com/berkinduz/term-cut-menubar-terminal) - macOS menu bar terminal with global hotkeys, tabs, and split panes
-- [MenuMail](https://github.com/berkinduz/menu-mail) - macOS menu bar email reader for your existing Apple Mail mailbox
 - [TryJS](https://github.com/berkinduz/try-js) - Browser playground for JavaScript, TypeScript, HTML/CSS, and React - [Live](https://tryjs.app)
+- [Term Cut](https://github.com/berkinduz/term-cut-menubar-terminal) - macOS menu bar terminal with global hotkeys, tabs, and split panes
+- [Slip](https://github.com/berkinduz/slip-menu-note-app) - macOS menu bar note-taking app.
+- [MenuMail](https://github.com/berkinduz/menu-mail) - macOS menu bar email reader for your existing Apple Mail mailbox
 - [Vectorio](https://github.com/berkinduz/vectorio) - Browser-based SVG converter for React, Vue, Svelte, and Solid components and icon libraries - [Live](https://vectorio.app)
 - [Differio - Diff Checker](https://github.com/berkinduz/differio) - Text and code comparison tool with side-by-side and unified diffs - [Live](https://differio.vercel.app)
 - [Job Apply Tracker](https://github.com/berkinduz/job-apply-tracker) - Job application tracker with a kanban board, follow-up reminders, and analytics - [Live](https://jobapplytracker.com)
